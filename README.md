@@ -1,6 +1,6 @@
 # Hello-world
-Hello World repository for Git tutorial
+Git Tutorial
 
-This is an example repository for the Git tutorial on W3 schools
+w3schools.com
 
-THis repo is built step by step
+Connected to GitHub now.
